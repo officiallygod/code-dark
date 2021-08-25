@@ -1,0 +1,22 @@
+{
+    "name": "code-dark",
+    "displayName": "Code Dark",
+    "description": "It's a Dark Theme for the REAL CODERS out there!",
+    "pubisher": "Materilio",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Code Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Code Dark-color-theme.json"
+            }
+        ]
+    }
+}
