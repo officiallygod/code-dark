@@ -1,45 +1,45 @@
 {
-    "name": "code-dark",
-    "displayName": "Code Dark",
-    "description": "It's a Dark Theme for the REAL CODERS out there!",
-    "icon": "images/logo.png",
-    "publisher": "Materilio",
-    "version": "0.0.1",
-    "repository": {
-        "type": "get",
-        "url": "https://github.com/officiallygod/code-dark"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "material theme",
-        "black theme",
-        "monokai",
-        "One Dark Pro",
-        "cobalt",
-        "vs code themes",
-        "officiallygod",
-        "materilio",
-        "allen benny",
-        "materilio dark",
-        "materilio theme",
-        "coder theme",
-        "best theme",
-        "sublime theme"
-    ],
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Code Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Code Dark-color-theme.json"
-            }
-        ]
-    }
+	"name": "code-dark",
+	"displayName": "Code Dark",
+	"description": "It's a Dark Theme for the REAL CODERS out there!",
+	"icon": "images/logo1.png",
+	"publisher": "Materilio",
+	"version": "0.1.0",
+	"repository": {
+		"type": "get",
+		"url": "https://github.com/officiallygod/code-dark"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"material theme",
+		"black theme",
+		"monokai",
+		"One Dark Pro",
+		"cobalt",
+		"vs code themes",
+		"officiallygod",
+		"materilio",
+		"allen benny",
+		"materilio dark",
+		"materilio theme",
+		"coder theme",
+		"best theme",
+		"sublime theme"
+	],
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Code Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Code Dark-color-theme.json"
+			}
+		]
+	}
 }
